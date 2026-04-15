@@ -6,9 +6,9 @@ date: 2026-04-14
 
 ### TL;DR
 
-HMO conversions targeting supported housing combine a high-CAGR developer flip (40–70% annualised) with an ongoing ~10% yield that looks like ordinary income investing.
+HMO conversions targeting supported housing combine a high-CAGR (compound annual growth rate) developer flip (40–70% annualised) with an ongoing ~10% yield that looks like ordinary income investing.
 
-The model is underwritten by a statutory council obligation to house eligible homeless households (Housing Act 1996 s.193) — demand is guaranteed regardless of quality, and rent is largely public money.
+The model is underwritten by a statutory council obligation to house eligible homeless households (Housing Act 1996 s.193) — demand is structurally insulated from quality, and rent is largely public money.
 
 Occupants are placed, not choosing; they cannot easily refuse or leave.
 
@@ -25,12 +25,12 @@ Typical pattern: buy with a mortgage, convert, refinance once income is proven, 
 | Setup | |
 |:---|---:|
 | Purchase | £500,000 |
-| Mortgage (75% LTV) | £375,000 |
+| Mortgage (75% LTV — loan-to-value) | £375,000 |
 | Equity down | £125,000 |
 | Conversion | £75,000 |
 | **Total equity deployed** | **£200,000** |
 | Gross rent (6 rooms × £250/wk) | £78,000/yr |
-| NOI after costs | ~£50,700/yr |
+| NOI (net operating income) after costs | ~£50,700/yr |
 | Value at 7% yield | ~£721,000 |
 
 | Developer return — refinance at ~12–18 months | |
@@ -46,7 +46,7 @@ Typical pattern: buy with a mortgage, convert, refinance once income is proven, 
 
 After refinance the equity in the asset is £721k − £540,750 = £180,250 — not the £34,250 of cash still tied up. Using the same valuation consistently:
 
-| Ongoing ROE | 5% rate | 6% rate |
+| Ongoing ROE (return on equity) | 5% rate | 6% rate |
 |:---|---:|---:|
 | NOI | £50,700 | £50,700 |
 | Debt service (int-only on £540k) | −£27,000 | −£32,450 |
@@ -54,7 +54,7 @@ After refinance the equity in the asset is £721k − £540,750 = £180,250 — 
 | Equity in property | £180,250 | £180,250 |
 | **Annual ROE** | **~13%** | **~10%** |
 
-At today's rates (~6%), ongoing ROE is roughly **10%** — which is what these deals are advertised at. That is a genuinely good yield compared to vanilla BTL (~5–6% gross). The developer CAGR of 40–70% at the refinance stage is the part that does not appear in the ads.
+At today's rates (~6%), ongoing ROE is roughly **10%** — which is what these deals are advertised at. That is a genuinely good yield compared to vanilla BTL (buy-to-let, ~5–6% gross). The developer CAGR of 40–70% at the refinance stage is the part that does not appear in the ads.
 
 10% is also in the range of diversified equity REITs and long-run pension fund return targets. For a buy-and-hold investor entering after the developer has exited, the return is not obviously outsized — it looks like a normal income asset. That is precisely why it attracts mainstream and retail capital. The risks are political and macro: changes to exempt accommodation rules or Housing Benefit caps could compress yields sharply, and that risk is not priced into the yield figure itself.
 
@@ -133,4 +133,9 @@ This is what distinguishes it from ordinary malinvestment: the downside is bound
 - Total public cost by pathway, not just one budget line.
 - Long-term move-on outcomes, not just placement counts.
 
-Note: exempt accommodation HB rates and borough-level TA shortfall figures are published by DWP and the National Audit Office respectively — worth adding if this post is expanded with data.
+### Sources
+
+- [Housing Act 1996, Part VII](https://www.legislation.gov.uk/ukpga/1996/52/part/VII) — s.193 main housing duty
+- [Homelessness Reduction Act 2017](https://www.legislation.gov.uk/ukpga/2017/13/contents) — prevention and relief duty extensions
+- DWP Housing Benefit guidance on exempt accommodation — search "exempt accommodation Housing Benefit circular" on gov.uk
+- National Audit Office — *Temporary Accommodation* (2024) — borough-level cost and subsidy gap figures
