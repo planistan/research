@@ -1,0 +1,8 @@
+title: Planistan Research
+description: Research notes and long-form analysis related to Planistan.
+theme: jekyll-theme-chirpy
+lang: en-GB
+timezone: Europe/London
+
+markdown: kramdown
+highlighter: rouge
