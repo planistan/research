@@ -6,16 +6,45 @@ date: 2026-04-14
 
 ### A Simple Example First (Illustrative)
 
-- Buy house: **GBP 500,000**
-- Conversion: **GBP 75,000**
-- Total in: **GBP 575,000**
-- Gross rent assumption: **GBP 78,000/year** (6 rooms at GBP 250/week)
-- NOI assumption after costs: **~GBP 50,700/year**
-- At a 7% yield, value can move toward **~GBP 721,000**
-- Refinance can return much of the original equity
-- Remaining equity then earns a high cash return
+Typical pattern: buy with a mortgage, convert, refinance once income is proven, repeat.
 
-This is the core loop: debt + public-linked rent flow + refinance.
+| Setup | |
+|:---|---:|
+| Purchase | £500,000 |
+| Mortgage (75% LTV) | £375,000 |
+| Equity down | £125,000 |
+| Conversion | £75,000 |
+| **Total equity deployed** | **£200,000** |
+| Gross rent (6 rooms × £250/wk) | £78,000/yr |
+| NOI after costs | ~£50,700/yr |
+| Value at 7% yield | ~£721,000 |
+
+| Developer return — refinance at ~12–18 months | |
+|:---|---:|
+| Refi at 75% LTV on £721k | £540,750 |
+| Pay off original mortgage | −£375,000 |
+| **Cash released** | **£165,750** |
+| Equity remaining | £34,250 |
+
+- Value created: £721k − £575k = **£146k on £200k deployed = 73% ROI**
+- Annualised (CAGR): **~73% at 12 months, ~44% at 18 months**
+- **83p of every £1 deployed comes back at refinance.** The deal nearly self-funds the next one.
+
+After refinance the equity in the asset is £721k − £540,750 = £180,250 — not the £34,250 of cash still tied up. Using the same valuation consistently:
+
+| Ongoing ROE | 5% rate | 6% rate |
+|:---|---:|---:|
+| NOI | £50,700 | £50,700 |
+| Debt service (int-only on £540k) | −£27,000 | −£32,450 |
+| Net cash | ~£23,700 | ~£18,250 |
+| Equity in property | £180,250 | £180,250 |
+| **Annual ROE** | **~13%** | **~10%** |
+
+At today's rates (~6%), ongoing ROE is roughly **10%** — which is what these deals are advertised at. That is a genuinely good yield compared to vanilla BTL (~5–6% gross). The developer CAGR of 40–70% at the refinance stage is the part that does not appear in the ads.
+
+10% is also in the range of diversified equity REITs and long-run pension fund return targets. For a buy-and-hold investor entering after the developer has exited, the return is not obviously outsized — it looks like a normal income asset. That is precisely why it attracts mainstream and retail capital. The risks are political and macro: changes to exempt accommodation rules or Housing Benefit caps could compress yields sharply, and that risk is not priced into the yield figure itself.
+
+This is the core loop: debt + public-linked rent flow + refinance + repeat.
 
 ### What Is Driving This
 
