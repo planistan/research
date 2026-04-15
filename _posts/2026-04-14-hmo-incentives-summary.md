@@ -63,7 +63,7 @@ That makes a specific financial mechanic available:
 
 If inflation is high and debt terms are fixed, the real cost of the debt can shrink over time, raising private returns further.
 
-The ongoing yield after refinance runs at roughly 10% at current borrowing costs. That is in the range of equity REITs and income fund targets: not an obviously outsized return, which is part of why it attracts mainstream and retail capital. The developer return — captured at the refinance stage — is the part that does not appear in the ads.
+After refinance, the levered cash-on-equity return in this example is roughly 10% at current borrowing costs. That can be presented as a familiar income-investment return, which is part of why it attracts mainstream and retail capital. The developer return — captured at the refinance stage — is the part that does not appear in the ads.
 
 This is the core loop: debt + public-linked rent flow + refinance + repeat.
 
@@ -103,9 +103,9 @@ After refinance the equity in the asset is £721k − £540,750 = £180,250 — 
 | Equity in property | £180,250 | £180,250 |
 | **Annual ROE** | **~13%** | **~10%** |
 
-At a roughly 6% borrowing cost, ongoing ROE is about 10%, which is what these deals are advertised at. That is a genuinely good yield compared to vanilla BTL (buy-to-let, ~5–6% gross). The developer CAGR of 40–70% at the refinance stage is the part that does not appear in the ads.
+At a roughly 6% borrowing cost, ongoing ROE is about 10%. The gross rent yield is about 11%, compared with vanilla BTL (buy-to-let) often advertised around ~5–6% gross. The developer CAGR of 40–70% at the refinance stage is the part that does not appear in the ads.
 
-A 10% income yield does not look absurd to investors. It can be presented as a normal income asset, while the larger refinance gain has already been captured by the developer.
+A 10% levered cash return does not look absurd to investors. It can be presented as a normal income asset, while the larger refinance gain has already been captured by the developer.
 
 ### The Incentive Structure
 
