@@ -96,10 +96,12 @@ Two different funding mechanisms are in play, and the gap between them drives th
 - For "exempt accommodation" — where the provider also supplies some care, support, or supervision — HB is not capped at LHA. It can cover "reasonable costs" at much higher levels, often two to three times LHA rates.
 - Central government (DWP) funds most of this. The council administers claims but is largely reimbursed.
 
-The council incentive is straightforward: moving someone from hotel TA (large local budget hit) into a supported HMO (mostly DWP-funded) looks like a saving, regardless of whether the placement is actually better for the occupant.
+The council incentive is straightforward: moving someone from hotel TA (large local budget hit) into a supported HMO (mostly DWP-funded) looks like a saving, regardless of whether the placement is actually better for the occupant or the surrounding community.
 
-**The dispersal problem:**
-The statutory duty applies to anyone who presents as homeless and passes eligibility tests — there is no strict local connection requirement at the point of duty. Councils under pressure routinely place households in supported accommodation in other, cheaper boroughs, sometimes far from where the person originally lived. This is legal and common. It concentrates supported HMOs in areas where conversion costs are lower, and moves vulnerable people away from their support networks.
+**The dispersal and opacity problem:**
+The statutory duty applies to anyone who presents as homeless and passes eligibility tests — there is no strict local connection requirement at the point of duty. Councils under pressure routinely place households in supported accommodation in other, cheaper boroughs, sometimes far from where the person originally lived. This is legal and common. It concentrates supported HMOs in areas where conversion costs are lower.
+
+Supported housing covers a wide range of need: homelessness, mental health, substance dependency, ex-offenders, and others. Neighbours typically have no visibility into what category of placement is going in next door, and no mechanism to price or account for that risk. Nobody publishes a clear breakdown of who is being placed where. The problems residents hear about are a signal that something is wrong, but the system produces no routine information that would let anyone — council, community, or regulator — act on it systematically.
 
 ### The Moral-Hazard / Malinvestment Point
 
@@ -117,6 +119,7 @@ In a normal rental market quality is disciplined partly by tenants' ability to l
 - Supported-housing occupants are placed, not shopping. They cannot easily refuse or move to an alternative.
 - The council's immediate incentive is bed availability; quality monitoring is secondary and resource-constrained.
 - Central government subsidy mutes local cost pressure on the council budget line that matters most.
+- There is no routine public disclosure of placement types or needs categories — neither occupants nor neighbours nor the wider community have reliable information about what is going into a given property.
 - Enforcement is complaint-driven and slow.
 
 The floor on how bad things can get is set almost entirely by how much noise the surrounding community makes, and by how much enforcement capacity exists to act on it. There is no automatic negative feedback from within the payment or placement system itself.
