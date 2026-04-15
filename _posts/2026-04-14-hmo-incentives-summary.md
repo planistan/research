@@ -4,6 +4,20 @@ title: "Why HMO Conversions Keep Spreading: Debt, Rent Flows, and Council Pressu
 date: 2026-04-14
 ---
 
+### TL;DR
+
+HMO conversions targeting supported housing combine a high-CAGR developer flip (40–70% annualised) with an ongoing ~10% yield that looks like ordinary income investing.
+
+The model is underwritten by a statutory council obligation to house eligible homeless households (Housing Act 1996 s.193) — demand is guaranteed regardless of quality, and rent is largely public money.
+
+Occupants are placed, not choosing; they cannot easily refuse or leave.
+
+A persistent, renewable supply of people in crisis is not a side effect of the model — it is a business input.
+
+There is no feedback mechanism within the payment or placement system to discipline quality.
+
+The only check is external: residents and neighbours complaining loudly enough to trigger enforcement.
+
 ### A Simple Example First (Illustrative)
 
 Typical pattern: buy with a mortgage, convert, refinance once income is proven, repeat.
@@ -63,24 +77,34 @@ This is the core loop: debt + public-linked rent flow + refinance + repeat.
 
 ### Why Councils Still Approve
 
-- Councils cannot simply refuse eligible homelessness cases.
+- Councils cannot simply refuse eligible homelessness cases (Housing Act 1996 s.193 main housing duty; extended by the Homelessness Reduction Act 2017).
 - If no suitable stock is available, they place households in temporary accommodation, including hotels/B&Bs.
 - That can be very costly quickly.
 - Supported-HMO stock can look cheaper in the short run, so approvals continue under pressure.
 
-### Where The Money Comes From (High-Level)
+### Where The Money Comes From
 
-- Temporary accommodation costs are paid through council systems first.
-- Central government covers part of this through subsidy/grants.
-- Councils often carry a local shortfall.
-- Supported/exempt rent payments are usually Housing Benefit administered locally, largely funded centrally.
+Two different funding mechanisms are in play, and the gap between them drives the incentive.
 
-TODO(source): add exact borough-level numbers for temporary accommodation cost, subsidy recovered, and local shortfall.
+**Temporary accommodation (hotels, B&Bs, nightly lets):**
+- The council pays the provider directly and claims a Housing Benefit subsidy from central government.
+- The subsidy is capped at Local Housing Allowance rates, which are typically well below actual nightly costs in London.
+- The gap falls on the council's own budget. In high-pressure boroughs this shortfall runs to millions per year.
+
+**Supported / exempt accommodation (supported HMOs):**
+- The occupant claims Housing Benefit directly.
+- For "exempt accommodation" — where the provider also supplies some care, support, or supervision — HB is not capped at LHA. It can cover "reasonable costs" at much higher levels, often two to three times LHA rates.
+- Central government (DWP) funds most of this. The council administers claims but is largely reimbursed.
+
+The council incentive is straightforward: moving someone from hotel TA (large local budget hit) into a supported HMO (mostly DWP-funded) looks like a saving, regardless of whether the placement is actually better for the occupant.
+
+**The dispersal problem:**
+The statutory duty applies to anyone who presents as homeless and passes eligibility tests — there is no strict local connection requirement at the point of duty. Councils under pressure routinely place households in supported accommodation in other, cheaper boroughs, sometimes far from where the person originally lived. This is legal and common. It concentrates supported HMOs in areas where conversion costs are lower, and moves vulnerable people away from their support networks.
 
 ### The Moral-Hazard / Malinvestment Point
 
 - Public-backed rent flow can protect private cashflow.
-- Weak social outcomes do not automatically kill financial returns.
+- Poor social outcomes do not automatically kill financial returns.
 - If demand pressure is persistent and quality enforcement is weak, low-quality supply can still be profitable.
 - In simple terms: bad outcomes can still pay.
 
@@ -106,4 +130,4 @@ This is what distinguishes it from ordinary malinvestment: the downside is bound
 - Total public cost by pathway, not just one budget line.
 - Long-term move-on outcomes, not just placement counts.
 
-TODO(source): add links to statutory duties, Housing Benefit treatment for exempt accommodation, and local authority accounts lines to verify each claim.
+Note: exempt accommodation HB rates and borough-level TA shortfall figures are published by DWP and the National Audit Office respectively — worth adding if this post is expanded with data.
