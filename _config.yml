@@ -5,5 +5,8 @@ theme: jekyll-theme-chirpy
 lang: en-GB
 timezone: Europe/London
 
+social:
+  email: planistan@proton.me
+
 markdown: kramdown
 highlighter: rouge
