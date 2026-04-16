@@ -1,2 +1,4 @@
-- type: email
+- type: mailto
   icon: fas fa-envelope
+  url: "mailto:planistan@proton.me"
+  noblank: true
