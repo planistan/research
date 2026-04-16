@@ -44,7 +44,18 @@ Two different funding mechanisms are in play, and the gap between them is the en
 - For some forms of specified or exempt accommodation — where the provider also supplies some care, support, or supervision — the rent eligible for Housing Benefit is not restricted in the same way as ordinary private rents. Councils still determine which costs are eligible and reasonable, but the ceiling can be substantially higher than ordinary LHA-linked support.
 - Much of the cost may be reimbursed through the Housing Benefit subsidy system, although the subsidy position varies with provider type and accommodation category.
 
-The council incentive is direct: moving someone from hotel TA (large local budget hit) into a supported HMO (different funding route) looks like a saving, regardless of whether the placement is actually better for the occupant or the surrounding community.
+The scale of the gap matters. TA subsidy is frozen at **2011 LHA rates** — not current market rents. A council placing a household in nightly-paid hotel accommodation in London might pay ~£700/week but recover only ~£150 in HB subsidy. The same household in a supported HMO room at ~£200/week is largely reimbursed by DWP. The illustrative spread:
+
+| | Hotel/B&B TA | Supported HMO room |
+|:---|---:|---:|
+| Weekly cost | ~£700 (~£100/night) | ~£200 |
+| HB recovery (2011 LHA-capped) | ~£150 | ~£200 |
+| **Weekly net cost to council** | **~£550** | **~£0** |
+| **Annual net cost** | **~£28,600** | **~£0** |
+
+*Illustrative London figures for nightly-paid hotel TA, the most expensive and now dominant category. National TA subsidy shortfall reached £204.5m in 2022–23 (NAO 2024); London-specific analysis puts the city-wide net shortfall above £740m (LSE 2025). Per-unit average annual costs across all TA types run £5,400–£17,200 depending on borough and stock type.*
+
+The council incentive is direct: moving someone from hotel TA (large local budget hit) into a supported HMO (largely DWP-funded) looks like a saving of tens of thousands of pounds per household per year, regardless of whether the placement is actually better for the occupant or the surrounding community.
 
 **The dispersal and opacity problem:**
 Supported housing covers a wide range of need: homelessness, mental health, substance dependency, ex-offenders, and others. There is no routine public, property-level breakdown of what type of placement is operating in a given building. Neighbours typically have no visibility into what category of need is going in next door, and no mechanism to price or account for that uncertainty. The problems residents hear about are a signal that something is wrong, but the system produces no routine information that would let anyone — council, community, or regulator — act on it before it escalates.
@@ -165,5 +176,7 @@ Three kinds of evidence matter.
 - [GOV.UK Homelessness Code of Guidance, Chapter 15](https://www.gov.uk/guidance/homelessness-code-of-guidance-for-local-authorities/chapter-15-accommodation-duties-and-powers) — eligibility and suitability requirements
 - [Shelter Legal: main housing duty](https://england.shelter.org.uk/professional_resources/legal/homelessness_applications/local_authority_homelessness_duties/local_authority_main_housing_duty)
 - [House of Commons Library: Temporary Accommodation in England](https://commonslibrary.parliament.uk/research-briefings/cbp-10421/) — out-of-area placements and cost pressures
+- [NAO (July 2024): *The effectiveness of government in tackling homelessness*](https://www.nao.org.uk/reports/the-effectiveness-of-government-in-tackling-homelessness/) — TA subsidy frozen at 2011 LHA rates, national shortfall £204.5m in 2022–23
+- [LSE (2025): *The temporary accommodation subsidy gap in London*](https://www.lse.ac.uk/news/london-boroughs-face-740-million-temporary-accommodation-shortfall) — eight-borough analysis, city-wide net shortfall £740m+, per-unit annual net costs £5,400–£17,200
 - [DWP HB Circular A3/2022](https://www.gov.uk/government/publications/housing-benefit-adjudication-circulars-2022/a32022-changes-to-supported-housing-and-temporary-accommodation-single-housing-benefit-extract-management-information) — supported housing and temporary accommodation Housing Benefit categories
 - [GOV.UK Rent Officer Handbook: Local Housing Allowance](https://www.gov.uk/guidance/rent-officer-handbook-local-housing-allowances/section-1-determination)
