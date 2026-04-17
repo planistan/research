@@ -4,6 +4,7 @@ title: "Supported housing in London and Greenwich: open questions and data sourc
 date: 2026-04-17
 categories: [research, supported-housing, london, greenwich]
 tags: [supported-housing, hmo, exempt-accommodation, greenwich, london, todo]
+published: false
 ---
 
 The national picture on exempt accommodation arbitrage is documented (see [previous post]({% post_url 2026-04-17-supported-housing-demand-drivers %})). The London borough-level picture is much less so. This note collects open questions and data sources for a London-specific investigation, with Greenwich as the primary focus.

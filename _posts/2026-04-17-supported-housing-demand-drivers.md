@@ -4,6 +4,7 @@ title: "What is driving the increase in supported housing? Demand, arbitrage, an
 date: 2026-04-17
 categories: [research, supported-housing, hmo]
 tags: [supported-housing, hmo, exempt-accommodation, housing-benefit, planning]
+published: false
 ---
 
 Planning data for London shows a sustained increase in applications to convert properties to supported housing and HMOs. The obvious question is: why? The answer turns out to be two separate phenomena running in parallel — genuine demand growth from an identifiable set of vulnerable populations, and a supply-side financial arbitrage that has little to do with real need.
