@@ -1,0 +1,7 @@
+---
+---
+
+/* Hide empty "By ..." author line on posts */
+article header .post-meta .d-flex.justify-content-between > span:first-child {
+  display: none;
+}
