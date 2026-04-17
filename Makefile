@@ -1,7 +1,7 @@
 .PHONY: all install dev serve build clean
 
 HOST ?= ::
-PORT ?= 4000
+PORT ?= 4123
 LIVERELOAD_PORT ?= 35729
 
 all:
