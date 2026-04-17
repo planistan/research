@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "What is driving the increase in supported housing? Demand, arbitrage, and who is actually inside"
+title: "What is driving the increase in supported housing? Demand, arbitrage, and the London picture"
 date: 2026-04-17
 categories: [research, supported-housing, hmo]
-tags: [supported-housing, hmo, exempt-accommodation, housing-benefit, planning]
+tags: [supported-housing, hmo, exempt-accommodation, housing-benefit, planning, greenwich, london]
 published: false
 ---
 
@@ -57,20 +57,42 @@ These two drivers look different in planning data:
 
 Planistan's entity resolution work — matching applicant and agent names across borough boundaries — is directly relevant here. A pattern of one agent or company filing dozens of conversions across London is a signal worth examining. It is not conclusive on its own, but it is a starting point.
 
-## Where to look
+## The London and Greenwich picture
 
-If you want to investigate this further, the most useful sources are:
+Birmingham is the canonical case study but the same incentive structure applies everywhere. The London borough-level picture is much less documented. Open questions:
 
-- [Supported Housing Review 2023 — GOV.UK](https://www.gov.uk/government/publications/supported-housing-review-2023) — official demand estimates and policy context
-- [Exempt Supported Accommodation — Hansard, September 2024](https://hansard.parliament.uk/commons/2024-09-10/debates/6A6E90A8-D0C5-4D40-806C-3CAFAB330E1E/ExemptSupportedAccommodation) — parliamentary debate with current figures
-- [How Birmingham became the centre of a supported housing controversy — Inside Housing](https://www.insidehousing.co.uk/insight/how-birmingham-became-the-centre-of-a-supported-housing-controversy-76941) — the most thorough journalism on the Birmingham case
-- [Birmingham City Council exempt accommodation report, 2021](https://www.birmingham.gov.uk/download/downloads/id/21309/exempt_accommodation_report.pdf) — the primary source document
-- [Supported and Specialist Housing Needs Assessment 2025 — Housing LIN](https://www.housinglin.org.uk/_assets/Resources/Housing/Support_materials/Reports/Supported-and-Specialist-Housing-and-Accommodation-Need-Assessment-2025.pdf) — most current needs data
-- [DWP housing benefit statistics](https://www.gov.uk/government/collections/housing-benefit-caseload-statistics) — exempt accommodation caseload by local authority
+- What does DWP housing benefit caseload data show for Greenwich specifically, and how does it compare to other London boroughs?
+- Is the exempt accommodation claimant count in Greenwich growing, and at what rate?
+- How does the LHA rate differential vary across London boroughs — and does conversion activity follow the gap?
+- Are the same agents filing repeatedly across multiple London boroughs? (Cross-borough entity resolution)
+- Is there a Greenwich-specific Article 4 direction in place, and if so, when was it introduced? Did application volumes shift around that date?
+- What is the ratio of genuine care-commissioned applications vs. speculative conversions in Greenwich data?
+
+**What Planistan can contribute directly:**
+- HMO and supported housing application volumes over time in Greenwich and across London boroughs
+- Agent and applicant name clustering across boroughs
+- Proposal text patterns — formulaic "supported housing" language vs. substantive care descriptions
+- Cross-borough comparison of conversion rates
+
+## TODO
+
+- [ ] Pull DWP Stat-Xplore data for Greenwich exempt accommodation claimant count by year
+- [ ] Compare Greenwich claimant count vs London average and Birmingham
+- [ ] Query Planistan: Greenwich HMO applications by year — is there a visible step change?
+- [ ] Query Planistan: top agent names in Greenwich HMO/supported housing applications
+- [ ] Query Planistan: same agent names across multiple boroughs for HMO applications
+- [ ] Check whether Greenwich has an Article 4 direction and when it was introduced
+- [ ] Look at LHA rates for SE London vs exempt accommodation rates — quantify the gap
+- [ ] Find London Assembly or GLA analysis of exempt accommodation by borough
+
+## Sources
+
+- [Supported Housing Review 2023 — GOV.UK](https://www.gov.uk/government/publications/supported-housing-review-2023)
+- [Exempt Supported Accommodation — Hansard, September 2024](https://hansard.parliament.uk/commons/2024-09-10/debates/6A6E90A8-D0C5-4D40-806C-3CAFAB330E1E/ExemptSupportedAccommodation)
+- [How Birmingham became the centre of a supported housing controversy — Inside Housing](https://www.insidehousing.co.uk/insight/how-birmingham-became-the-centre-of-a-supported-housing-controversy-76941)
+- [Birmingham City Council exempt accommodation report, 2021](https://www.birmingham.gov.uk/download/downloads/id/21309/exempt_accommodation_report.pdf)
+- [Supported and Specialist Housing Needs Assessment 2025 — Housing LIN](https://www.housinglin.org.uk/_assets/Resources/Housing/Support_materials/Reports/Supported-and-Specialist-Housing-and-Accommodation-Need-Assessment-2025.pdf)
+- [DWP housing benefit caseload statistics](https://www.gov.uk/government/collections/housing-benefit-caseload-statistics)
+- [DWP Stat-Xplore](https://stat-xplore.dwp.gov.uk/)
+- [London Assembly housing committee reports](https://www.london.gov.uk/about-us/london-assembly/london-assembly-publications?category=housing)
 - [Shelter on regulatory oversight](https://england.shelter.org.uk/professional_resources/news_and_updates/regulation_of_supported_housing_next_steps)
-
-## Open questions
-
-What is not yet well-documented is the London picture specifically. Birmingham is the canonical case study but the same incentive structure applies everywhere. How much of the supported housing conversion activity visible in London planning data is need-driven versus arbitrage-driven? Are the same agents appearing repeatedly? Do the conversion clusters follow LHA rate differentials across boroughs?
-
-These are questions the planning data can help answer, at least partially. That is one of the things this project is trying to do.
