@@ -66,6 +66,58 @@ To move beyond speculative claims, we need a transparent, anonymized breakdown o
 
 Until this data is published, Birmingham remains a city serving a national housing crisis with a local planning and oversight system that was never designed to handle it. The 10,000-room gap is not just a statistical oddity; it is evidence of a massive, state-funded routing system that has detached housing supply from local need.
 
+
+### Blocked Exits: Why Move-On Fails
+
+The biggest missing piece in most debates is **exit capacity**. Even if referrals stopped growing, this stock could stay high if people cannot move on.
+
+For many residents, the realistic exits are limited:
+
+- social housing supply is structurally short and waiting times are long;
+- private rents are above what low-income single adults can sustain;
+- LHA and real-market rent gaps make ordinary private rooms hard to access;
+- landlords often avoid higher-risk or benefit-dependent tenants;
+- there is very little cheap, single-room move-on stock.
+
+This is why "transitional" can become semi-permanent. People are placed into a supported room because it is the only immediate option, then remain because no viable next step appears. That is not a claim about individual motivation. It is a system-design result when inflow pathways are faster than outflow pathways.
+
+### The Stock-Flow Trap
+
+This can be expressed as a simple stock-flow problem.
+
+- **Inflow:** people referred from homelessness, criminal justice, care-leaver, health, and other crisis routes.
+- **Outflow:** people moving into ordinary private renting, social housing, family re-accommodation, or other settled exits.
+
+If outflow slows below inflow, total occupied rooms rise even without a dramatic jump in new referrals. In other words, occupancy can accumulate through duration, not just through new entries.
+
+The available Birmingham evidence is consistent with this trap. SH-001 reports that 44% of occupants had been in place for less than 12 months, but 12% had been there for more than 3 years (p.8). In a sector described as transitional, a long-stay tail of that size can absorb a large number of rooms over time.
+
+So the growth pattern does not require a single explanatory shock. It can emerge from three interacting conditions:
+
+1. out-of-area routing into available stock;
+2. weak local-connection gatekeeping in non-commissioned provision;
+3. blocked exits from supported rooms into ordinary housing.
+
+### What Would Settle This (Minimal Evidence Table)
+
+This is a research gap, not a rhetorical gap. The way to settle the argument is a small, repeatable evidence table at resident-entry and move-on points.
+
+At minimum, for each year and provider type:
+
+- **Referral source:** council, prison/probation, hospital/discharge, care-leaver team, self/provider route.
+- **Previous location:** prior local authority and anonymized prior postcode band.
+- **Local connection status:** whether the person had a Birmingham local connection at placement.
+- **Support intensity:** assessed need and support hours delivered (auditable, not brochure claims).
+- **Move-on destination:** private rent, social housing, another supported unit, temporary accommodation, custody/hospital, unknown.
+
+With those fields, key disputes become measurable:
+
+- Is growth mainly local demand or external routing?
+- Are people moving through, or being parked in place?
+- Is support intensity matched to classification and rent level?
+
+Without those fields, the public can see stock growth and referral-route signals, but not the full resident-level mechanism that explains who filled the 10,000-room gap.
+
 ---
 
 *Sources:*
