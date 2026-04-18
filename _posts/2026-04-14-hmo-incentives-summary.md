@@ -22,6 +22,34 @@ The only checks are external: occupant complaints, neighbour pressure, enforceme
 
 ---
 
+### What Is an HMO and What Kinds Are There?
+
+A House in Multiple Occupation (HMO) is simply a property where several unrelated people share facilities — kitchen, bathroom, common areas. That's the planning definition. Beyond that, HMOs vary enormously in who lives there and how the rent is paid.
+
+There are two broad types:
+
+**Ordinary private HMO** — students, young workers, anyone renting a room because it's cheaper than a flat. Rent paid from wages, savings, or housing benefit capped at the Local Housing Allowance (LHA) rate. No care or services provided. This is the traditional model.
+
+**Supported HMO** — residents have some form of vulnerability (mental health, substance misuse, homelessness, leaving care, ex-offenders, asylum seekers, domestic abuse survivors, and others). The operator provides some level of care or support services to residents — not necessarily intensive, but some structured element. This is where the funding picture diverges sharply.
+
+**A note on the word "supported":** it means the *operator* provides support services *to residents*. It has nothing to do with government "supporting" the housing financially. That is a separate question entirely.
+
+**The funding split: above-cap and below-cap**
+
+For ordinary HMOs, housing benefit is capped at the LHA rate — a ceiling set by the government based on local market rents. For supported HMOs, if the provider meets certain criteria, that cap can be lifted entirely. Housing benefit can be paid at substantially higher rates — in some London cases three times the ordinary cap. The official term for this is **exempt accommodation** (meaning exempt from the LHA cap), but what it means in practice is above-cap housing benefit.
+
+| | Ordinary private HMO | Supported HMO |
+|:---|:---|:---|
+| **Who lives there** | Anyone — students, workers, etc. | Vulnerable people receiving support services |
+| **"Support" provided** | None | Yes — care, supervision, or structured services |
+| **Housing benefit** | Capped at LHA rate | Can be above LHA cap ("exempt accommodation") |
+| **Rent funded by** | Tenant income or below-cap HB | Largely above-cap HB paid by DWP |
+| **Council budget impact** | Minimal | Can significantly reduce council TA costs |
+
+This table is what drives everything else in this post. The above-cap funding available to supported HMOs — and the fact that "support" can in practice mean very little — is the engine of the conversion incentive.
+
+---
+
 ### Why Councils Have No Choice
 
 Councils have a statutory duty to secure accommodation for eligible homeless households (Housing Act 1996 s.193 main housing duty; extended by the Homelessness Reduction Act 2017). Where an applicant is unintentionally homeless, eligible, and in priority need, the council must act. It cannot simply refuse.
