@@ -8,7 +8,7 @@ date: 2026-04-14
 
 Councils have a legal duty to house eligible homeless households and face large budget pressure from hotels and B&Bs. Supported-HMO placements can look cheaper in the short run — so demand is structurally linked to public need rather than tenant choice.
 
-That rent stream — largely public money — makes these properties unusually financeable. The developer upside comes mainly from selling or refinancing against the higher income valuation, recovering much of the original cash, and repeating. The held asset can show ~11% gross rent yield, ~7% net unlevered yield, and ~10% levered cash-on-equity — attractive, but not the same as the developer return.
+That rent stream — largely public money — makes these properties easier to finance. The developer upside comes mainly from selling or refinancing against the higher income valuation, recovering much of the original cash, and repeating. The held asset can show ~11% gross rent yield, ~7% net unlevered yield, and ~10% levered cash-on-equity — attractive, but not the same as the developer return.
 
 The people placed in these properties have genuine needs. The problem is a structure that can reward expansion even when quality and support are weak, and that runs on a steady supply of people with limited alternatives.
 
@@ -32,8 +32,6 @@ There are two broad types:
 
 **Supported HMO** — residents have some form of vulnerability (mental health, substance misuse, homelessness, leaving care, ex-offenders, asylum seekers, domestic abuse survivors, and others). The operator provides some level of care or support services to residents — not necessarily intensive, but some structured element. This is where the funding picture diverges sharply.
 
-**A note on the word "supported":** it means the *operator* provides support services *to residents*. It has nothing to do with government "supporting" the housing financially. That is a separate question entirely.
-
 **The funding split: above-cap and below-cap**
 
 For ordinary HMOs, housing benefit is capped at the LHA rate — a ceiling set by the government based on local market rents. For supported HMOs, if the provider meets certain criteria, that cap can be lifted entirely. Housing benefit can be paid at substantially higher rates — in some London cases three times the ordinary cap. The official term for this is **exempt accommodation** (meaning exempt from the LHA cap), but what it means in practice is above-cap housing benefit.
@@ -46,7 +44,7 @@ For ordinary HMOs, housing benefit is capped at the LHA rate — a ceiling set b
 | **Rent funded by** | Tenant income or below-cap HB | Largely above-cap HB paid by DWP |
 | **Council budget impact** | Minimal | Can significantly reduce council TA costs |
 
-This table is what drives everything else in this post. The above-cap funding available to supported HMOs — and the fact that "support" can in practice mean very little — is the engine of the conversion incentive.
+This table drives the rest of the post: above-cap funding in supported HMOs is the core conversion incentive.
 
 ---
 
@@ -54,11 +52,11 @@ This table is what drives everything else in this post. The above-cap funding av
 
 Councils have a statutory duty to secure accommodation for eligible homeless households (Housing Act 1996 s.193 main housing duty; extended by the Homelessness Reduction Act 2017). Where an applicant is unintentionally homeless, eligible, and in priority need, the council must act. It cannot simply refuse.
 
-If no suitable stock is available, the council places households in temporary accommodation — hotels, B&Bs, nightly lets. That is expensive and falls substantially on the council's own budget. Supported-HMO placements can look cheaper in the short run, so the pressure to use them is real and ongoing.
+If no suitable stock is available, the council places households in temporary accommodation — hotels, B&Bs, nightly lets. That is expensive and largely hits the council's own budget. Supported-HMO placements can look cheaper in the short run, so pressure to use them is constant.
 
 The duty also applies to people with no strong prior connection to the borough. Councils under pressure routinely place households in supported accommodation in other, cheaper boroughs. This is legal and common. It concentrates supported HMOs in areas where conversion costs are lower, and moves people away from their support networks.
 
-### Where The Money Comes From
+### Where the Money Comes From
 
 Two different funding mechanisms are in play, and the gap between them is the engine of the incentive.
 
@@ -69,7 +67,8 @@ Two different funding mechanisms are in play, and the gap between them is the en
 
 **Supported / exempt accommodation:**
 - The occupant claims Housing Benefit directly.
-- For some forms of specified or exempt accommodation — where the provider also supplies some care, support, or supervision — the rent eligible for Housing Benefit is not restricted in the same way as ordinary private rents. Councils still determine which costs are eligible and reasonable, but the ceiling can be substantially higher than ordinary LHA-linked support.
+- For some forms of specified or exempt accommodation, where the provider supplies care, support, or supervision, eligible rent is not capped in the same way as ordinary private rents.
+- Councils still determine which costs are eligible and reasonable, but the ceiling can be much higher than ordinary LHA-linked support.
 - Much of the cost may be reimbursed through the Housing Benefit subsidy system, although the subsidy position varies with provider type and accommodation category.
 
 The scale of the gap matters. TA subsidy is frozen at **2011 LHA rates** — not current market rents. A council placing a household in nightly-paid hotel accommodation in London might pay ~£700/week but recover only ~£150 in HB subsidy. The same household in a supported HMO room at ~£200/week is largely reimbursed by DWP. The illustrative spread:
@@ -86,7 +85,7 @@ The scale of the gap matters. TA subsidy is frozen at **2011 LHA rates** — not
 The council incentive is direct: moving someone from hotel TA (large local budget hit) into a supported HMO (largely DWP-funded) looks like a saving of tens of thousands of pounds per household per year, regardless of whether the placement is actually better for the occupant or the surrounding community.
 
 **The dispersal and opacity problem:**
-Supported housing covers a wide range of need: homelessness, mental health, substance dependency, ex-offenders, and others. There is no routine public, property-level breakdown of what type of placement is operating in a given building. Neighbours typically have no visibility into what category of need is going in next door, and no mechanism to price or account for that uncertainty. The problems residents hear about are a signal that something is wrong, but the system produces no routine information that would let anyone — council, community, or regulator — act on it before it escalates.
+Supported housing covers a wide range of need: homelessness, mental health, substance dependency, ex-offenders, and others. There is no routine public, property-level breakdown of what type of placement is operating in a given building. Neighbours usually cannot see what type of placement is going in next door until problems appear. That opacity makes early action by councils, communities, and regulators harder.
 
 ### Why This Attracts Capital
 
@@ -110,51 +109,54 @@ This is the core loop: debt + public-linked rent flow + refinance + repeat.
 
 *Key terms: LTV (loan-to-value) — the mortgage as a share of property value. NOI (net operating income) — rent minus running costs. ROE (return on equity) — annual cash return on equity invested. CAGR (compound annual growth rate) — the annualised return.*
 
-| Setup | |
-|:---|---:|
-| Purchase | £500,000 |
-| Mortgage (75% LTV) | £375,000 |
-| Equity down | £125,000 |
-| Conversion | £75,000 |
-| **Total equity deployed** | **£200,000** |
-| Gross rent (6 rooms × £250/wk) | £78,000/yr |
-| NOI after costs | ~£50,700/yr |
-| Value at 7% yield | ~£721,000 |
+Assume a typical stabilize-and-refinance range of roughly 60–75% LTV.
+The calculations below use 75% LTV as an upper-end worked example.
 
-| Developer return — refinance at ~12–18 months | |
-|:---|---:|
-| Refi at 75% LTV on £721k | £540,750 |
-| Pay off original mortgage | −£375,000 |
-| **Cash released** | **£165,750** |
-| Cash still tied up | £34,250 |
+Starting position (upper-end 75% LTV example):
+- Purchase: £500,000
+- Mortgage (75% LTV): £375,000
+- Equity down: £125,000
+- Conversion: £75,000
+- **Total equity deployed: £200,000**
+- Gross rent (6 rooms × £250/wk): £78,000/yr
+- NOI (net operating income) after costs: ~£50,700/yr
+- Value at 7% yield: ~£721,000
+
+Two returns sit on top of the same asset.
+
+**1) Development return (buy/convert/refinance, ~12–18 months):**
+- Refi at 75% LTV on £721k: £540,750
+- Pay off original mortgage: −£375,000
+- **Cash released: £165,750**
+- Cash still tied up: £34,250
 
 - Value created: £721k − £575k = **£146k on £200k deployed = 73% ROI**
 - Annualised (CAGR): **~73% at 12 months, ~44% at 18 months**
 - **83p of every £1 deployed comes back at refinance.** The deal nearly self-funds the next one.
 
-After refinance the equity in the asset is £721k − £540,750 = £180,250 — not the £34,250 of cash still tied up. Using the same valuation consistently:
+**2) Hold return (income after refinance):**
+After refinance, equity in the asset is £721k − £540,750 = £180,250 (not the £34,250 cash still tied up). Using that equity base consistently:
 
-| Ongoing ROE | 5% rate | 6% rate |
-|:---|---:|---:|
-| NOI | £50,700 | £50,700 |
-| Debt service (int-only on £540k) | −£27,000 | −£32,450 |
-| Net cash | ~£23,700 | ~£18,250 |
-| Equity in property | £180,250 | £180,250 |
-| **Annual ROE** | **~13%** | **~10%** |
+- At a 5% interest-only debt cost on ~£540k:
+  - Net cash is ~£23,700/year
+  - Annual ROE is ~13% on £180,250 equity
+- At a 6% interest-only debt cost on ~£540k:
+  - Net cash is ~£18,250/year
+  - Annual ROE is ~10% on £180,250 equity
 
-At a roughly 6% borrowing cost, ongoing ROE is about 10%. The gross rent yield is about 11%, compared with vanilla BTL (buy-to-let) often advertised around ~5–6% gross. The developer CAGR of 40–70% at the refinance stage is the part that does not appear in the ads.
+At roughly 6% borrowing cost, ongoing ROE is about 10%. Gross rent yield here is about 11%, versus vanilla BTL (buy-to-let) often advertised around ~5–6% gross. The larger developer CAGR (40–70% in this example) is usually not what gets highlighted.
 
 A 10% levered cash return does not look absurd to investors. It can be presented as a normal income asset, while the larger refinance gain has already been captured by the developer.
 
 ### The Incentive Structure
 
-Each actor is responding to real pressure or real opportunity.
+Each party is responding to real pressure or real opportunity.
 
 - **Developer / intermediary:** maximise refinance upside and cash yield, then repeat.
 - **Investor:** hold a high-yield income asset on a stable public-linked rent stream.
 - **Operator:** recurring management fees regardless of outcomes.
 - **Council:** avoid very expensive hotel and B&B placements while meeting a legal duty it cannot refuse.
-- **The structural dynamic:** a persistent, renewable supply of people in crisis is not a side effect of the model — it is a business input. Stable occupancy at near-zero vacancy cost requires occupants who cannot easily refuse or leave.
+- **Structural dynamic:** a steady supply of people in crisis becomes a business input. High occupancy is easier when occupants have limited ability to refuse or leave.
 
 ### What Goes Wrong
 
@@ -164,7 +166,7 @@ Each actor is responding to real pressure or real opportunity.
 - If demand pressure is persistent and quality enforcement is weak, low-quality supply can still be profitable.
 - In simple terms: bad outcomes can still pay.
 
-This is the malinvestment risk: capital is rewarded by the structure, even when local social value is poor.
+This is the malinvestment risk: money keeps flowing into a model that can produce poor local outcomes.
 
 **The missing feedback loop:**
 
@@ -176,7 +178,7 @@ In a normal rental market quality is disciplined partly by tenants' ability to l
 - There is no routine public disclosure of placement types or needs categories — neither occupants nor neighbours nor the wider community have reliable information about what is going into a given property.
 - Enforcement is complaint-driven and slow.
 
-The floor on how bad things can get is set almost entirely by how much pressure the surrounding community — occupants, neighbours, frontline workers, and councillors — can bring to bear, and by how much enforcement capacity exists to act on it. There is no automatic negative feedback from within the payment or placement system itself.
+How bad outcomes get is often set by outside pressure (occupants, neighbours, frontline workers, councillors) and by enforcement capacity. There is no automatic correction inside the payment or placement system itself.
 
 This is what distinguishes it from ordinary malinvestment: the downside is bounded only by external political pressure.
 
