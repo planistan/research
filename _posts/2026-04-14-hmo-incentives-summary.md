@@ -2,6 +2,9 @@
 layout: post
 title: "Why HMO Conversions Keep Spreading: Debt, Rent Flows, and Council Pressure"
 date: 2026-04-14
+categories: [research]
+tags: [hmo, debt, yield, council, housing-benefit]
+published: true
 ---
 
 ### TL;DR

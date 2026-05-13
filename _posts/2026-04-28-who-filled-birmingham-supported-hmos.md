@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The 10,000-Room Gap: Who Filled Birmingham’s Supported-Exempt HMOs?"
-date: 2026-04-18
-categories: [supported-housing]
+date: 2026-04-28
+categories: [research]
 tags: [housing, birmingham, homelessness, policy]
-published: false
+published: true
 ---
 
 Between 2018 and 2021, the number of "transitional" supported housing units in Birmingham almost doubled. By mid-2021, the city had reached a staggering scale: **21,317 units** of supported accommodation (Source: SH-001, p.5).

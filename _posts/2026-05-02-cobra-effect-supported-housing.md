@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The Cobra Effect in Supported Housing: Incentives, Evidence, and Gaps"
-date: 2026-04-18
-categories: [supported-housing]
+date: 2026-05-02
+categories: [research]
 tags: [housing, policy, incentives]
-published: false
+published: true
 ---
 
 The starting point is simple: payment design shapes supply.

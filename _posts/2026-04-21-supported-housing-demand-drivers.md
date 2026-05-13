@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What Is Driving Supported-Housing Growth?"
-date: 2026-04-17
-categories: [research, supported-housing, hmo]
+date: 2026-04-21
+categories: [research]
 tags: [supported-housing, hmo, exempt-accommodation, planning, london]
-published: false
+published: true
 ---
 
 This post is the short map. The detailed arguments now live in two focused pieces:

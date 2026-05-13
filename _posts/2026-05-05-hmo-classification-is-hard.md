@@ -1,15 +1,11 @@
 ---
 layout: post
 title: "Why HMO Classification and Lineage is Hard"
-date: 2026-04-18
-categories: [research, hmo, data]
+date: 2026-05-05
+categories: [research]
 tags: [hmo, supported-housing, exempt-accommodation, housing-benefit, homelessness, data, dashboard]
-published: false
+published: true
 ---
-
-Draft notes for later editing. This is deliberately over-complete. The aim is to preserve the research problem, the working hypothesis, the vocabulary, the data sources, the uncertainty, and the build plan for a possible dashboard.
-
-## The actual problem
 
 The financial incentives in the shared-housing market are clear, whether it's an operator maximizing room counts for LHA subsidies or a provider claiming above-cap "exempt" rates for supported housing. The property form (the HMO) is the common denominator.
 
