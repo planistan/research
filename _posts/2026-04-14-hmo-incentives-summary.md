@@ -26,25 +26,37 @@ The only checks are external: occupant complaints, neighbour pressure, enforceme
 
 A House in Multiple Occupation (HMO) is simply a property where several unrelated people share facilities — kitchen, bathroom, common areas. That's the planning definition. Beyond that, HMOs vary enormously in who lives there and how the rent is paid.
 
-There are two broad types:
+There are three broad types in the current market:
 
-**Ordinary private HMO** — students, young workers, anyone renting a room because it's cheaper than a flat. Rent paid from wages, savings, or housing benefit capped at the Local Housing Allowance (LHA) rate. No care or services provided. This is the traditional model.
+**Ordinary private HMO** — students, professionals, or anyone renting a room because it's cheaper than a flat. Rent is paid from wages or savings.
 
-**Supported HMO** — residents have some form of vulnerability (mental health, substance misuse, homelessness, leaving care, ex-offenders, asylum seekers, domestic abuse survivors, and others). The operator provides some level of care or support services to residents — not necessarily intensive, but some structured element. This is where the funding picture diverges sharply.
+**LHA-Targeted private HMO** — legally a standard "private" tenancy, but economically a subsidized product aimed at benefit claimants. The **Local Housing Allowance (LHA)** sets the maximum subsidy a tenant can receive. Because these tenants have little personal income to "top up" rent, the LHA rate acts as an effective ceiling for what landlords can charge. Profit is instead maximized by squeezing the highest possible room count into the property.
 
-**The funding split: above-cap and below-cap**
+**Supported HMO** — residents have some form of vulnerability. The operator provides care or support services. This is where the funding picture diverges sharply into **exempt accommodation** (where the subsidy cap is lifted).
 
-For ordinary HMOs, housing benefit is capped at the LHA rate — a ceiling set by the government based on local market rents. For supported HMOs, if the provider meets certain criteria, that cap can be lifted entirely. Housing benefit can be paid at substantially higher rates — in some London cases three times the ordinary cap. The official term for this is **exempt accommodation** (meaning exempt from the LHA cap), but what it means in practice is above-cap housing benefit.
+**The funding split: market, below-cap, and above-cap**
 
-| | Ordinary private HMO | Supported HMO |
-|:---|:---|:---|
-| **Who lives there** | Anyone — students, workers, etc. | Vulnerable people receiving support services |
-| **"Support" provided** | None | Yes — care, supervision, or structured services |
-| **Housing benefit** | Capped at LHA rate | Can be above LHA cap ("exempt accommodation") |
-| **Rent funded by** | Tenant income or below-cap HB | Largely above-cap HB paid by DWP |
-| **Council budget impact** | Minimal | Can significantly reduce council TA costs |
+| | Ordinary private | LHA-Targeted private | Supported HMO |
+|:---|:---|:---|:---|
+| **Who lives there** | Workers, students | Benefit claimants (UC/HB) | Vulnerable people (care/support) |
+| **"Support" provided** | None | None | Care, supervision, or services |
+| **Housing benefit** | N/A (Wages) | Capped by LHA subsidy | Above LHA cap (Exempt) |
+| **Rent funded by** | Tenant income | LHA / Universal Credit | Largely above-cap HB |
+| **Yield strategy** | Market rent | **6.51m² room-count max** | Support-service charges |
 
-This table drives the rest of the post: above-cap funding in supported HMOs is the core conversion incentive.
+### The 6.51m² Loophole: Yield-Chasing in the Private Market
+
+While "exempt" supported housing gets much of the attention, the "LHA-Targeted" private model is the engine of conversion in many London boroughs.
+
+Because the LHA subsidy is capped at the 30th percentile of local rents, a landlord cannot realistically raise the rent *per room* above what the benefit system will pay. To increase profit, they must increase the *number of rooms*.
+
+*   **The Bare Legal Minimum:** UK law sets a minimum room size for HMOs: **6.51m²** for a single adult.
+*   **The Arbitrage:** A developer takes a standard 3-bedroom family house and converts it into a 6 or 7-bedroom HMO, with every room built to exactly (or just over) 6.51m².
+*   **The Result:** By maximizing the room count, the landlord can collect 7 separate LHA cheques from the government, yielding far more than they would from a family rental or a high-quality 3-room HMO.
+
+This model only works because the housing shortage is so acute that there is a guaranteed pool of tenants who have no choice but to accept a tiny room, as long as the benefit system covers the cost.
+
+This table drives the rest of the post: the gap between market costs and benefit caps (whether LHA or Exempt) is the core conversion incentive.
 
 ---
 

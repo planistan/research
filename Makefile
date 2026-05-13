@@ -11,7 +11,7 @@ install:
 	bundle install
 
 dev:
-	bundle exec jekyll serve --baseurl="" --watch --drafts --host=$(HOST) --port=$(PORT) --livereload --livereload-port=$(LIVERELOAD_PORT)
+	bundle exec jekyll serve --baseurl="" --watch --drafts --unpublished --host=$(HOST) --port=$(PORT) --livereload --livereload-port=$(LIVERELOAD_PORT)
 
 serve:
 	bundle exec jekyll serve --baseurl="" --watch --host=$(HOST) --port=$(PORT) --livereload --livereload-port=$(LIVERELOAD_PORT)

@@ -3,7 +3,7 @@ layout: post
 title: "What Is Driving Supported-Housing Growth?"
 date: 2026-04-17
 categories: [research, supported-housing, hmo]
-tags: [supported-housing, hmo, exempt-accommodation, planning, london, greenwich]
+tags: [supported-housing, hmo, exempt-accommodation, planning, london]
 published: false
 ---
 
@@ -12,12 +12,13 @@ This post is the short map. The detailed arguments now live in two focused piece
 - [The Cobra Effect in Supported Housing](/2026/04/18/cobra-effect-supported-housing.html)
 - [The 10,000-Room Gap: Who Filled Birmingham’s Supported-Exempt HMOs?](/2026/04/18/who-filled-birmingham-supported-hmos.html)
 
-## One Market, Two Forces
+## One Market, Three Forces
 
-Supported-housing growth is best understood as two forces running together:
+HMO and supported-housing growth is best understood as three forces running together:
 
-- Real demand from people with genuine housing and support needs.
-- Strong financial incentives created by exempt-accommodation payment rules.
+- **Real demand** from people with genuine housing and support needs.
+- **Strong financial incentives** created by exempt-accommodation payment rules (above-cap funding).
+- **Yield-chasing in the private market** targeting the Local Housing Allowance (LHA) cap through room-count maximization (the 6.51m² loophole).
 
 The first post focuses on incentive mechanics. The second focuses on Birmingham's scale gap and referral-routing evidence.
 

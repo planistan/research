@@ -62,6 +62,27 @@ At national level, local authorities face severe pressure in temporary accommoda
 
 Those numbers explain why local systems are under pressure to move people away from expensive pathways. They do not prove any single local pathway is optimal; they explain why referral and placement behavior can be highly cost-sensitive.
 
+## The LHA Cap and the 6.51m² Cobra Effect
+
+The "cobra effect" is not limited to high-support exempt accommodation. It also drives the standard private HMO market where rent is capped by the **Local Housing Allowance (LHA)**.
+
+When a payment cap is fixed (like LHA), a landlord cannot increase revenue by raising the rent per room. Instead, they increase revenue by **multiplying the number of rooms**. 
+
+- **The Goal:** Maximize yield from a single property.
+- **The Proxy:** Total room count.
+- **The Result:** Conversion of family homes into 6-7 bedroom "tiny-room" HMOs, often built to the bare legal minimum of **6.51m²**.
+
+In this scenario, the benefit system’s attempt to "cap" costs (LHA) actually incentivizes the production of the lowest-quality, most cramped housing possible, because that is the only way for the property owner to hit their yield targets.
+
+## Two Sides of the Same Coin
+
+Whether the goal is to **bypass** the LHA cap (via supported/exempt status) or to **maximize yield under** the LHA cap (via the 6.51m² loophole), the underlying dynamic is identical. The "Cobra Effect" occurs because the payment design rewards a proxy—occupancy in a claimable unit or room—rather than a social outcome.
+
+- **The Supported Cobra:** Rewards the *classification* of a resident as "vulnerable" to unlock higher funding, leading to over-classification and weak support delivery.
+- **The Private Cobra:** Rewards the *multiplication* of rooms to capture more LHA cheques, leading to the systematic conversion of family homes into "tiny-room" warehouses.
+
+In both cases, capital flows toward the category with the most reliable, publicly-backed rent stream, and supply adapts to the specific shape of the subsidy, not the needs of the residents or the community.
+
 ## What Still Needs Better Data
 
 The current public evidence is enough to show a structural incentive problem, but not enough to settle every contested claim.
